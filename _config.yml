@@ -1,6 +1,7 @@
 title: DARE-FX project
 
-topnav_title: DARE-FX
+# Not needed, title already included in assets/img/main_logo.svg
+# topnav_title: DARE-FX
 
 description: >
   DARE-FX is a project aiming to deliver a federated network of TREs to enable safe analytics.
