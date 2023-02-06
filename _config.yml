@@ -1,9 +1,15 @@
 title: DARE-FX project
-description: DARE-FX is a project aiming to deliver a federated network of TREs to enable safe analytics.
+
+description: >
+  DARE-FX is a project aiming to deliver a federated network of TREs to enable safe analytics.
+
 remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@1.23.0
+
 permalink: pretty
+
 theme_variables: 
-  theme_color: 2a2787ff
+  theme_color: 2a2787
+
 defaults:
   - scope:
       path: ""
