@@ -2,7 +2,7 @@
 
 _Delivering a federated network of TREs to enable safe analytics_
 
-<img src="img/dare-fx-draft-logo.svg" alt="DARE-FX, delivering a federated network of TREs to enable safe analytics" />
+<a href="img/dare-fx-draft-logo.svg"><img src="img/dare-fx-draft-logo.svg" alt="DARE-FX, delivering a federated network of TREs to enable safe analytics" /></a>
 
 DARE-FX is a project funded by [UKRI](https://www.ukri.org/) Medical Research Council [MRC](https://www.ukri.org/councils/mrc/) and [DARE UK](https://dareuk.org.uk/) for the call [“Inform design of cross-council trusted research environments”](https://www.ukri.org/opportunity/inform-design-of-cross-council-trusted-research-environments/).
 
@@ -54,7 +54,7 @@ Please email `contact🤠hdrfx.uk` (replacing 🤠 with @) for any questions.
 
 ## Implementation plan
 
-<img src="img/darefx-implementation.svg" alt="Five Safes Queries go to Submission layer, polled by TRE polling Layer. It authenticates the query before queing it, to be picked up by the Controlled Layer inside the Trusted Research Infrastructure. The workflow is executed using WfExS (workflow execution service) with results as an RO-Crate, checked for disclosure control. Results propagate upwards to the Five Safe Results API and submitted through the Transparancy Layer to the HDR Data Use Register." />
+<a href="/img/darefx-implementation.svg"><img src="img/darefx-implementation.svg" alt="Five Safes Queries go to Submission layer, polled by TRE polling Layer. It authenticates the query before queing it, to be picked up by the Controlled Layer inside the Trusted Research Infrastructure. The workflow is executed using WfExS (workflow execution service) with results as an RO-Crate, checked for disclosure control. Results propagate upwards to the Five Safe Results API and submitted through the Transparancy Layer to the HDR Data Use Register." /></a>
 
 1. User submit queries as job packets in a Five Safes RO-Crate via an API on a publicly available Submission portal. Queries are then presented on a query queue.
 2. The job packets are pulled down into a demilitarised polling zone on a TRE via a secure outbound only API connection. Connection between TREs and the Submission Layer are managed by HUTCH.
