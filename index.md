@@ -25,7 +25,7 @@ as we needed in the COVID-19 pandemic. The technologies and standards we need to
 do not need to be invented. 
 
 **DARE-FX** is assembling leading technology providers from
-[ELIXIR-UK](https://elixiruknode.org/) and [HDR-UK](https://www.hdruk.ac.uk/), 
+[ELIXIR-UK](https://elixiruknode.org/) and [HDR UK](https://www.hdruk.ac.uk/), 
 with three TRE providers and two leading analysis platforms
 to show through a real reference implementation how we can use secure Research
 Objects to move between TREs while still supporting the **Five Safes principles** that
@@ -43,7 +43,7 @@ Please email `contact🤠hdrfx.uk` (replacing 🤠 with @) for any questions.
 
 * ELIXIR UK via The University of Manchester -- Carole Goble, Stian Soiland-Reyes
 * University of Nottingham -- Philip Quinlan, Thomas Giles, Jonathan Couldridge
-* Health Data Research UK (HDRUK) -- Emily Jefferson
+* Health Data Research UK (HDR UK) -- Emily Jefferson
 * University of Dundee -- Christian Cole
 * University of Swansea -- Simon Thompson
 * University of Liverpool -- Rebecca Wilson
